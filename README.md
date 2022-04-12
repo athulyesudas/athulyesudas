@@ -13,7 +13,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/vscode.svg" style="padding-right:10px;" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/vscode.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/python.svg" style="padding-right:10px;" />
 <img align="left" alt="Tensorflow" width="26px" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/tensorflow.svg" style="padding-right:10px;" />
 <img align="left" alt="Numpy" width="26px" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/numpy.svg" style="padding-right:10px;" />
