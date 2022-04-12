@@ -21,6 +21,8 @@
 <img align="left" alt="NUMPY" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/numpy.svg" style="padding-right:10px;" />
 
 <br>
+<br>
+<br>
 
 
 <img align="left" alt="MATPLOTLIB" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/matplotlib.svg"  />
