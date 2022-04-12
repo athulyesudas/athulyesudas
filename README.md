@@ -23,9 +23,9 @@
 <br>
 
 
-<img align="left" alt="MATPLOTLIB" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/matplotlib.svg" style="padding-right:10px;" />
+<img align="left" alt="MATPLOTLIB" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/matplotlib.svg"  />
 <img align="left" alt="TENSORFLOW" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/tensorflow.svg" style="padding-right:10px;" />
-<img align="left" alt="SCIKIT LEARN" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/scikit-learn.svg" style="padding-right:10px;" />
+<img align="left" alt="SCIKIT LEARN" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/scikit-learn.svg"  />
 
 
 
