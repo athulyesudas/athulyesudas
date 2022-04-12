@@ -19,6 +19,7 @@
 <img align="left" alt="Numpy" width="26px" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/numpy.svg" style="padding-right:10px;" />
 <img align="left" alt="R" width="28px" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/r.svg" style="padding-right:10px;" />
 <img align="left" alt="Matplotlib" width="110px" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/matplotlib.svg" style="padding-right:10px;" />
+<br>
 
 <img align="left" alt="Pandas" width="110px" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/pandas.svg" style="padding-right:10px;" />
 <img align="left" alt="Pandas" width="110px" src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.svg" style="padding-right:10px;" />
