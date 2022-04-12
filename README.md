@@ -9,3 +9,8 @@
 
 <img align="right" width="200" src="https://github.com/athulyesudas/Animated-SVG/blob/main/Animated%20Cat/cat.svg" />
 <img align="center" alt="athulyesudas Github Stats" src="https://github-readme-stats.vercel.app/api?username=athulyesudas&show_icons=true&hide_border=true&theme=dracula" />
+
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
