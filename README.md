@@ -13,14 +13,15 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/vscode.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/python.svg" style="padding-right:10px;" />
-<img align="left" alt="Tensorflow" width="26px" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/tensorflow.svg" style="padding-right:10px;" />
-<img align="left" alt="Numpy" width="26px" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/numpy.svg" style="padding-right:10px;" />
-<img align="left" alt="R" width="28px" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/r.svg" style="padding-right:10px;" />
-<img align="left" alt="R" width="" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/matplotlib.svg" style="padding-right:10px;" />
-<img align="left" alt="R" width="" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/python.svg" style="padding-right:10px;" />
-<img align="left" alt="R" width="" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/vscode.svg" style="padding-right:10px;" />
+
+<img align="left" alt="PYTHON" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/python.svg" style="padding-right:10px;" />
+<img align="left" alt="VSCODE" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/vscode.svg" style="padding-right:10px;" />
+<img align="left" alt="PANDAS" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/pandas.svg" style="padding-right:10px;" />
+<img align="left" alt="R" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/r.svg" style="padding-right:10px;" />
+<img align="left" alt="NUMPY" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/numpy.svg" style="padding-right:10px;" />
+<img align="left" alt="SCIKIT LEARN" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/scikit-learn.svg" style="padding-right:10px;" />
+<img align="left" alt="MATPLOTLIB" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/matplotlib.svg" style="padding-right:10px;" />
+<img align="left" alt="TENSORFLOW" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/tensorflow.svg" style="padding-right:10px;" />
 
 
 
