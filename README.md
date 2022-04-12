@@ -19,15 +19,9 @@
 <img align="left" alt="PANDAS" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/pandas.svg"/>
 <img align="left" alt="R" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/r.svg"/>
 <img align="left" alt="NUMPY" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/numpy.svg"/>
-
-<br>
-<br>
-<br>
-
-
-<img align="left" alt="MATPLOTLIB" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/matplotlib.svg"  />
-<img align="left" alt="TENSORFLOW" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/tensorflow.svg" style="padding-right:10px;" />
-<img align="left" alt="SCIKIT LEARN" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/scikit-learn.svg"  />
+<img align="left" alt="MATPLOTLIB" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/matplotlib.svg"/>
+<img align="left" alt="TENSORFLOW" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/tensorflow.svg" style="padding-right:10px;"/>
+<img align="left" alt="SCIKIT LEARN" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/scikit-learn.svg"/>
 
 
 
