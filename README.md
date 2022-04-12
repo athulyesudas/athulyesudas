@@ -9,7 +9,7 @@
 
 <img align="right" width="200" src="https://github.com/athulyesudas/Animated-SVG/blob/main/Animated%20Cat/cat.svg" />
 <img align="center" alt="athulyesudas Github Stats" src="https://github-readme-stats.vercel.app/api?username=athulyesudas&show_icons=true&hide_border=true&theme=dracula" />
-
+<br>
 
 ### Languages and Tools:
 
