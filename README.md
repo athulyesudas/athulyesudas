@@ -14,14 +14,24 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+ 
 <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/python.svg" alt="amplify" /> </a>
+ 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/vscode.svg" alt="android" /> </a>  
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/pandas.svg" alt="dart"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/r.svg" alt="docker"/> </a> 
+ 
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/pandas.svg" alt="dart"/> </a> 
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/r.svg" alt="docker"/> </a> 
+ 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/numpy.svg" alt="express"/> </a> 
+ 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/matplotlib.svg" alt="figma"/> </a> 
+ 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/scikit-learn.svg" alt="firebase"/> </a> 
+ 
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/tensorflow.svg" alt="gcp"/> </a> 
- </p>
+ 
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=athulyesudas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="athulyesudas" /></p>
 
