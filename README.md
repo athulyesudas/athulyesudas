@@ -14,11 +14,11 @@
 ### Languages and Tools:
 
 
-<img align="left" alt="PYTHON" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/python.svg" style="padding-right:10px;" />
-<img align="left" alt="VSCODE" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/vscode.svg" style="padding-right:10px;" />
-<img align="left" alt="PANDAS" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/pandas.svg" style="padding-right:10px;" />
-<img align="left" alt="R" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/r.svg" style="padding-right:10px;" />
-<img align="left" alt="NUMPY" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/numpy.svg" style="padding-right:10px;" />
+<img align="left" alt="PYTHON" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/python.svg"/>
+<img align="left" alt="VSCODE" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/vscode.svg"/>
+<img align="left" alt="PANDAS" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/pandas.svg"/>
+<img align="left" alt="R" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/r.svg"/>
+<img align="left" alt="NUMPY" src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/numpy.svg"/>
 
 <br>
 <br>
