@@ -22,6 +22,10 @@
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/matplotlib.svg" alt="figma"/> </a>  
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/scikit-learn.svg" alt="firebase"/> </a>  
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/tensorflow.svg" alt="gcp"/> </a>  
+<a href="https://dashboard.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/heroku.svg" alt="gcp"/> </a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/seaborn.svg" alt="gcp"/> </a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/power-bi.svg" alt="gcp"/> </a>
+<a href="https://cassandra.apache.org/_/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/cassandra.svg" alt="gcp"/> </a>
 </p>
 
 <br>
