@@ -1,6 +1,6 @@
-# Hi there, I'm Athul Yesudas 👋 
+# Hi there, Welcome to my Profile :)
 
-## Happy to see you on my profile page! 
+## I'm Athul Yesudas
 
 - 👀 I’m interested in ...data analysis
 - 🌱 I’m currently learning ...data science
