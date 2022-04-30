@@ -38,10 +38,8 @@
 
 <a href="https://github.com/athulyesudas/Car-Price-Prediction" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/car_price_prediction.png" alt="gcp"/> </a>
 
-<a href="https://github.com/athulyesudas/Edubridge-Data-Analytics/tree/main/Projects/US%20Air%20Pollution%20EDA%20(Python)" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/eda-on-us-air-pollution.png" alt="gcp"/> </a>
-
 <a href="https://github.com/athulyesudas/Edubridge-Data-Analytics/tree/main/Projects/Military%20Expenditure%20EDA%20(RStudio)" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/eda-on-military-expenditure.png" alt="gcp"/> </a>
 
 <a href="https://github.com/athulyesudas/Edubridge-Data-Analytics/tree/main/Projects/Money%20Control%20-%20Web%20Scraping%20(Python)" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/web-scraping-stocks.png" alt="gcp"/> </a>
 
-<a href="https://github.com/athulyesudas/Edubridge-Data-Analytics/tree/main/Projects/Whiskey%20Exchange%20-%20Web%20Scraping%20(Python)" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/web-scraping-whiskey-exchange.png" alt="gcp"/> </a>
+
