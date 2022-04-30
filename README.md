@@ -1,3 +1,5 @@
+![alt text](https://github.com/athulyesudas/athulyesudas/blob/main/Images/decoratives/welcome_tab.png?raw=true)
+
 <a href="https://athul.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/decoratives/website_cover.webp" alt="gcp"/> </a>
 
 <img align="right" width="200" src="https://github.com/athulyesudas/Animated-SVG/blob/main/Animated%20Cat/cat.svg" />
