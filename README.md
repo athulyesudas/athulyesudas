@@ -53,6 +53,7 @@
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/scikit-learn.svg" alt="firebase"/> </a>  
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/tensorflow.svg" alt="gcp"/> </a>  
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/seaborn.svg" alt="gcp"/> </a>
-    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/power-bi.svg" alt="gcp"/> </a>
+    <a href="https://cran.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/rrr.svg" alt="gcp"/> </a>
+    <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/excel.svg" alt="gcp"/> </a>
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/fastapi.svg" alt="gcp"/> </a>
 </div>
