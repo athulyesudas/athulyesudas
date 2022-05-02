@@ -21,6 +21,7 @@
 
 <div align="center">
     <a href="https://carrpred.herokuapp.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/car_price_prediction_app.png" alt="gcp"/> </a>
+    <a href="https://carrpred.herokuapp.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/flight_fare_prediction_app.png" alt="gcp"/> </a>
 </div>
 
 <h2 align="left">Projects:</h2>
@@ -44,15 +45,14 @@
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/vscode.svg" alt="android" /> </a> 
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/jupyter.svg" alt="docker"/> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/git.svg" alt="amplify" /> </a>
-    <a href="https://html5.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/html.svg" alt="amplify" /> </a>
-    <a href="https://www.w3.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/css.svg" alt="amplify" /> </a>
-    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/javascript.svg" alt="amplify" /> </a>  
+    <a href="https://html5.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/html-5.svg" alt="amplify" /> </a>
+    <a href="https://www.w3.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/css-3.svg" alt="amplify" /> </a>
+    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/javas-cript.svg" alt="amplify" /> </a>  
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/pandas.svg" alt="dart"/> </a> 
     <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/numpy.svg" alt="express"/> </a>  
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/matplotlib.svg" alt="figma"/> </a>  
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/scikit-learn.svg" alt="firebase"/> </a>  
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/tensorflow.svg" alt="gcp"/> </a>  
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/seaborn.svg" alt="gcp"/> </a>
     <a href="https://cran.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/rrr.svg" alt="gcp"/> </a>
     <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/excel.svg" alt="gcp"/> </a>
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/forthebadge/fastapi.svg" alt="gcp"/> </a>
