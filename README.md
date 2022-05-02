@@ -23,6 +23,7 @@
 
 <div align="center">
     <a href="https://github.com/athulyesudas/Car-Price-Prediction" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/car_price_prediction.png" alt="gcp"/>
+    <a href="https://github.com/athulyesudas/Edubridge-Data-Analytics/tree/main/Projects/Predicting%20Future%20Sales" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/predicting_future_sales.png" alt="gcp"/>
     <a href="https://github.com/athulyesudas/Edubridge-Data-Analytics/tree/main/Projects/Military%20Expenditure%20EDA%20(RStudio)" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/eda_on_military_expenditure.png" alt="gcp"/>
     <a href="https://github.com/athulyesudas/Edubridge-Data-Analytics/tree/main/Projects/Money%20Control%20-%20Web%20Scraping%20(Python)" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/web_scraping_stocks.png" alt="gcp"/>
 </div>
