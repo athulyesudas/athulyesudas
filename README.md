@@ -30,11 +30,11 @@
 </div>
 
 <div align="center">
-    <a href="https://github.com/athulyesudas/Edubridge-Data-Analytics/tree/main/Projects/Military%20Expenditure%20EDA%20(RStudio)" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/eda-on-military-expenditure.png" alt="gcp"/> </a>
+    <a href="https://github.com/athulyesudas/Edubridge-Data-Analytics/tree/main/Projects/Military%20Expenditure%20EDA%20(RStudio)" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/eda on military expenditure.png" alt="gcp"/> </a>
 </div>
 
 <div align="center">
-    <a href="https://github.com/athulyesudas/Edubridge-Data-Analytics/tree/main/Projects/Money%20Control%20-%20Web%20Scraping%20(Python)" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/web-scraping-stocks.png" alt="gcp"/> </a>
+    <a href="https://github.com/athulyesudas/Edubridge-Data-Analytics/tree/main/Projects/Money%20Control%20-%20Web%20Scraping%20(Python)" target="_blank" rel="noreferrer"> <img src="https://github.com/athulyesudas/athulyesudas/blob/main/Images/App%20Buttons/web scraping stocks.png" alt="gcp"/> </a>
 </div>
 
 <h2>Languages and Tools:</h2>
