@@ -1,74 +1,45 @@
-## Hi, I'm Athul Yesudas 👋
+<div align="center">
+  <h2>Hi there, I'm Athul Yesudas! 👋</h2>
+  <h3>Process Developer @ Genpact | Aspiring Data Analyst</h3>
+  <p>
+    <i>"Transforming operational complexity into clear business insights."</i>
+  </p>
+  
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-Aspiring **Data Analyst** with hands-on experience in data analysis, visualization,
-and business-focused insights using **Python, SQL, Excel, and BI tools**.
-I come from an operations background where accuracy, metrics, and quality
-were critical — now applying the same mindset to data-driven decision making.
+<br/>
 
----
+### 🚀 Professional Summary
+I am a **Process Developer** with 3+ years of experience at **Genpact**, specializing in Content Moderation and Operations. 
 
-## 🔍 What I Do
-- Analyze structured datasets to uncover trends and insights  
-- Clean, transform, and explore data using Python and SQL  
-- Build dashboards and reports for business stakeholders  
-- Translate data findings into actionable recommendations  
+I am currently pivoting to **Data Analytics**, using my background in process management to build tools that automate workflows and visualize operational health. I bridge the gap between *executing* a process and *analyzing* it.
 
----
-
-## 🛠️ Core Skills
-
-**Data Analysis**
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Transformation
-- Business Insight Generation
-
-**Tools & Technologies**
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- **SQL** (Joins, Aggregations, Subqueries, Window Functions)
-- **Excel** (Pivot Tables, Charts, Dashboards)
-- **Tableau / Power BI**
-- Git & GitHub
+- 🔭 **Current Project:** Building an [Operations SLA Analyzer](https://github.com/athulyesudas/Operations-Performance-Analysis) to automate daily reporting.
+- 💼 **Core Skills:** Process Optimization, SLA Management, Root Cause Analysis.
+- 🌱 **Tech Focus:** Python (Pandas), SQL, Excel, and Data Visualization.
 
 ---
 
-## 📊 Featured Projects
+### 🛠️ Tech Stack
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</div>
 
-- 📈 **Sales Performance Analysis**  
-  Analyzed sales data to identify revenue trends, top-performing products,
-  and seasonal patterns with business recommendations.
+<br/>
 
-- 🚦 **US Accidents Data Analysis**  
-  Exploratory analysis to uncover accident patterns by location, time,
-  and environmental conditions.
-
-- 🎮 **Video Game Sales Insights**  
-  Market analysis of global video game sales across regions and platforms.
-
-- 📊 **Excel Sales Dashboard**  
-  Interactive Excel dashboard with KPIs and trend analysis.
-
-- 📊 **Tableau Business Dashboard**  
-  Executive-level dashboard designed for quick decision-making.
-
-👉 Detailed project repositories are available below.
-
----
-
-## 🧠 Background
-
-- Operations professional at **Genpact** (2022 – Present)  
-- Strong experience in quality analysis, metrics, and process-driven work  
-- Trained in **Data Science & Analytics** (EduBridge)  
-- Currently focused on transitioning into a full-time **Data Analyst role**
-
----
-
-## 📫 Let’s Connect
-
-- 📍 Alappuzha, Kerala, India  
-- 🌐 Portfolio: https://athul.netlify.app  
-- 💼 GitHub: https://github.com/athulyesudas  
-
----
-
-⭐ *Open to Data Analyst / Junior Data Analyst / Analytics roles*
+### 📊 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=athulyesudas&show_icons=true&theme=radical&count_private=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulyesudas&layout=compact&theme=radical" height="180" alt="languages" />
+</div>
