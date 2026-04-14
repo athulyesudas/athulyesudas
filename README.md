@@ -38,8 +38,4 @@ I am currently pivoting to **Data Analytics**, using my background in process ma
 
 <br/>
 
-### 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=athulyesudas&show_icons=true&theme=radical&count_private=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulyesudas&layout=compact&theme=radical" height="180" alt="languages" />
-</div>
+
